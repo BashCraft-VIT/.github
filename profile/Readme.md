@@ -1,1 +1,1 @@
-# BashCraft Club
+# BashCraft
